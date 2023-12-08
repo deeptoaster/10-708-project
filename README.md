@@ -21,6 +21,15 @@ include separate scripts.
 
 ### Preprocessing
 
+Download the online dataset from  37 healthy individuals who participated in a
+brain-computer interface (BCI) study by Meng and He. 
+
+Put the folder in the same directory as the DataProcessing.py file
+
+Run the preprocessing script by the following code
+
+python3 DataProcesssing.py
+
 ### Experiments
 
 The instructions for each experiment below assume that the state of the GGN
